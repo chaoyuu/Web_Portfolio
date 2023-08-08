@@ -1,1 +1,9 @@
-import someone  from '@/components/Banner.js'
+import { Controller } from "react-bootstrap-icons";
+
+return(
+    <Router>
+       <Container>
+        
+       </Container>
+    </Router>
+)
