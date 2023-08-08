@@ -1,0 +1,1 @@
+import someone  from '@/components/Banner.js'
